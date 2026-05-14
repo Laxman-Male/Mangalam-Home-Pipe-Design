@@ -1677,6 +1677,7 @@ textarea {
   display: flex;
   flex-direction: column;
   gap: 8px;
+  padding: 0px;
 }
 .footer_col ul li {
   font-size: 13px;
