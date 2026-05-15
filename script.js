@@ -1,5 +1,5 @@
 /* 
-   STICKY HEADER
+   sticky header
    Appears when scrolled past the first viewport height
    Disappears when scrolled back to top
     */
